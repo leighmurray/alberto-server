@@ -1,0 +1,24 @@
+<fieldset data-role="controlgroup"
+    <label for="time[{{index}}][time_label]">Label</label>
+    <input type="text" id="time[{{index}}][time_label]" name="time[{{index}}][label]" value="Work">
+
+    <label for="time[{{index}}][time_start]">Start Time</label>
+    <input id="time[{{index}}][time_start]" type="time" name="time[{{index}}][timeStart]" value="08:30">
+
+    <label for="time[{{index}}][time_end">End Time</label>
+    <input id="time[{{index}}][time_end]" type="time" name="time[{{index}}][timeEnd]" value="17:30">
+</fieldset>
+
+<fieldset data-role="controlgroup" data-type="horizontal">
+  <label for="time[{{index}}][ASC]">ASC</label>
+  <input type="radio" id="time[{{index}}][ASC]" name="time[{{index}}][progress]" value="ASC">
+  <label for="time[{{index}}][DESC]">DESC</label>
+  <input type="radio" id="time[{{index}}][DESC]" name="time[{{index}}][progress]" value="DESC">
+</fieldset>
+
+<fieldset data-role="controlgroup" data-type="horizontal">
+  <label for="time[{{index}}][percent]">%</label>
+  <input type="radio" id="time[{{index}}][percent]" name="time[{{index}}][format]" value="percent">
+  <label for="time[{{index}}][time]">00:00</label>
+  <input type="radio" id="time[{{index}}][time]" name="time[{{index}}][format]" value="time">
+</fieldset>

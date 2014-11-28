@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Percentage</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="//ajax.googleapis.com/ajax/libs/jquerymobile/1.4.3/jquery.mobile.min.css" />
+    <script src="https://apis.google.com/js/client:platform.js" async defer></script>
+  </head>
+  <body>
+    <div data-role="page" id="main">
+        <div data-role="content">
+          <?php require_once "gcal.php"; ?>
+              <form id="time-settings">
+                  <div class="ui-body">
+                      <div id="times">
+
+                      </div>
+                      <fieldset class="ui-grid-a">
+                        <div class="ui-block-a"><button type="submit" data-theme="d" id="b-cancel">Cancel</button></div>
+                        <div class="ui-block-b"><button type="submit" data-theme="a" id="b-submit">Submit</button></div>
+                      </fieldset>
+                  </div>
+              </form>
+        </div>
+    </div>
+
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script src="//ajax.googleapis.com/ajax/libs/jquerymobile/1.4.3/jquery.mobile.min.js"></script>
+    <script src="mustache.js"></script>
+    <script src="jquery.serialise-object.js"></script>
+    <script src="settings.js"></script>
+  </body>
+</html>

@@ -1,0 +1,219 @@
+[27-Nov-2014 19:47:30 Australia/Sydney] PHP Notice:  Use of undefined constant STDIN - assumed 'STDIN' in /home/leighmur/public_html/percentage/gcal.php on line 25
+[27-Nov-2014 19:47:30 Australia/Sydney] PHP Warning:  fgets() expects parameter 1 to be resource, string given in /home/leighmur/public_html/percentage/gcal.php on line 25
+[27-Nov-2014 19:47:30 Australia/Sydney] PHP Fatal error:  Uncaught exception 'Google_Auth_Exception' with message 'Invalid code' in /home/leighmur/public_html/percentage/gapi/src/Google/Auth/OAuth2.php:88
+Stack trace:
+#0 /home/leighmur/public_html/percentage/gapi/src/Google/Client.php(126): Google_Auth_OAuth2->authenticate('')
+#1 /home/leighmur/public_html/percentage/gcal.php(28): Google_Client->authenticate('')
+#2 {main}
+  thrown in /home/leighmur/public_html/percentage/gapi/src/Google/Auth/OAuth2.php on line 88
+[27-Nov-2014 19:48:50 Australia/Sydney] PHP Notice:  Use of undefined constant STDIN - assumed 'STDIN' in /home/leighmur/public_html/percentage/gcal.php on line 26
+[27-Nov-2014 19:48:50 Australia/Sydney] PHP Warning:  fgets() expects parameter 1 to be resource, string given in /home/leighmur/public_html/percentage/gcal.php on line 26
+[27-Nov-2014 19:48:50 Australia/Sydney] PHP Fatal error:  Uncaught exception 'Google_Auth_Exception' with message 'Invalid code' in /home/leighmur/public_html/percentage/gapi/src/Google/Auth/OAuth2.php:88
+Stack trace:
+#0 /home/leighmur/public_html/percentage/gapi/src/Google/Client.php(126): Google_Auth_OAuth2->authenticate('')
+#1 /home/leighmur/public_html/percentage/gcal.php(29): Google_Client->authenticate('')
+#2 {main}
+  thrown in /home/leighmur/public_html/percentage/gapi/src/Google/Auth/OAuth2.php on line 88
+[27-Nov-2014 19:48:58 Australia/Sydney] PHP Notice:  Use of undefined constant STDIN - assumed 'STDIN' in /home/leighmur/public_html/percentage/gcal.php on line 26
+[27-Nov-2014 19:48:58 Australia/Sydney] PHP Warning:  fgets() expects parameter 1 to be resource, string given in /home/leighmur/public_html/percentage/gcal.php on line 26
+[27-Nov-2014 19:48:58 Australia/Sydney] PHP Fatal error:  Uncaught exception 'Google_Auth_Exception' with message 'Invalid code' in /home/leighmur/public_html/percentage/gapi/src/Google/Auth/OAuth2.php:88
+Stack trace:
+#0 /home/leighmur/public_html/percentage/gapi/src/Google/Client.php(126): Google_Auth_OAuth2->authenticate('')
+#1 /home/leighmur/public_html/percentage/gcal.php(29): Google_Client->authenticate('')
+#2 {main}
+  thrown in /home/leighmur/public_html/percentage/gapi/src/Google/Auth/OAuth2.php on line 88
+[27-Nov-2014 19:50:00 Australia/Sydney] PHP Notice:  Use of undefined constant STDIN - assumed 'STDIN' in /home/leighmur/public_html/percentage/gcal.php on line 30
+[27-Nov-2014 19:50:00 Australia/Sydney] PHP Warning:  fgets() expects parameter 1 to be resource, string given in /home/leighmur/public_html/percentage/gcal.php on line 30
+[27-Nov-2014 19:50:00 Australia/Sydney] PHP Fatal error:  Uncaught exception 'Google_Auth_Exception' with message 'Invalid code' in /home/leighmur/public_html/percentage/gapi/src/Google/Auth/OAuth2.php:88
+Stack trace:
+#0 /home/leighmur/public_html/percentage/gapi/src/Google/Client.php(126): Google_Auth_OAuth2->authenticate('')
+#1 /home/leighmur/public_html/percentage/gcal.php(33): Google_Client->authenticate('')
+#2 {main}
+  thrown in /home/leighmur/public_html/percentage/gapi/src/Google/Auth/OAuth2.php on line 88
+[27-Nov-2014 19:50:19 Australia/Sydney] PHP Notice:  Use of undefined constant STDIN - assumed 'STDIN' in /home/leighmur/public_html/percentage/gcal.php on line 29
+[27-Nov-2014 19:50:19 Australia/Sydney] PHP Warning:  fgets() expects parameter 1 to be resource, string given in /home/leighmur/public_html/percentage/gcal.php on line 29
+[27-Nov-2014 19:50:19 Australia/Sydney] PHP Fatal error:  Uncaught exception 'Google_Auth_Exception' with message 'Invalid code' in /home/leighmur/public_html/percentage/gapi/src/Google/Auth/OAuth2.php:88
+Stack trace:
+#0 /home/leighmur/public_html/percentage/gapi/src/Google/Client.php(126): Google_Auth_OAuth2->authenticate('')
+#1 /home/leighmur/public_html/percentage/gcal.php(32): Google_Client->authenticate('')
+#2 {main}
+  thrown in /home/leighmur/public_html/percentage/gapi/src/Google/Auth/OAuth2.php on line 88
+[27-Nov-2014 20:10:09 Australia/Sydney] PHP Notice:  Undefined index: code in /home/leighmur/public_html/percentage/gcal.php on line 15
+[27-Nov-2014 20:10:09 Australia/Sydney] PHP Fatal error:  Call to undefined function http_redirect() in /home/leighmur/public_html/percentage/gcal.php on line 21
+[27-Nov-2014 20:10:14 Australia/Sydney] PHP Notice:  Undefined index: code in /home/leighmur/public_html/percentage/gcal.php on line 15
+[27-Nov-2014 20:10:14 Australia/Sydney] PHP Fatal error:  Call to undefined function http_redirect() in /home/leighmur/public_html/percentage/gcal.php on line 21
+[27-Nov-2014 20:10:48 Australia/Sydney] PHP Notice:  Undefined index: code in /home/leighmur/public_html/percentage/gcal.php on line 15
+[27-Nov-2014 20:10:48 Australia/Sydney] PHP Fatal error:  Call to undefined function http_redirect() in /home/leighmur/public_html/percentage/gcal.php on line 21
+[27-Nov-2014 20:11:32 Australia/Sydney] PHP Notice:  Undefined index: code in /home/leighmur/public_html/percentage/gcal.php on line 16
+[27-Nov-2014 20:11:32 Australia/Sydney] PHP Fatal error:  Call to undefined function http_redirect() in /home/leighmur/public_html/percentage/gcal.php on line 22
+[27-Nov-2014 20:12:05 Australia/Sydney] PHP Notice:  Undefined index: code in /home/leighmur/public_html/percentage/gcal.php on line 18
+[27-Nov-2014 20:12:05 Australia/Sydney] PHP Fatal error:  Call to undefined function http_redirect() in /home/leighmur/public_html/percentage/gcal.php on line 23
+[27-Nov-2014 20:13:28 Australia/Sydney] PHP Notice:  Undefined index: code in /home/leighmur/public_html/percentage/gcal.php on line 18
+[27-Nov-2014 20:13:34 Australia/Sydney] PHP Fatal error:  Uncaught exception 'Google_Auth_Exception' with message 'Error fetching OAuth2 access token, message: 'invalid_request: Missing parameter: redirect_uri'' in /home/leighmur/public_html/percentage/gapi/src/Google/Auth/OAuth2.php:120
+Stack trace:
+#0 /home/leighmur/public_html/percentage/gapi/src/Google/Client.php(126): Google_Auth_OAuth2->authenticate('4/G8sAwYhwE78fm...')
+#1 /home/leighmur/public_html/percentage/gcal.php(27): Google_Client->authenticate('4/G8sAwYhwE78fm...')
+#2 {main}
+  thrown in /home/leighmur/public_html/percentage/gapi/src/Google/Auth/OAuth2.php on line 120
+[27-Nov-2014 20:13:58 Australia/Sydney] PHP Fatal error:  Uncaught exception 'Google_Auth_Exception' with message 'Error fetching OAuth2 access token, message: 'invalid_grant: Code was already redeemed.'' in /home/leighmur/public_html/percentage/gapi/src/Google/Auth/OAuth2.php:120
+Stack trace:
+#0 /home/leighmur/public_html/percentage/gapi/src/Google/Client.php(126): Google_Auth_OAuth2->authenticate('4/G8sAwYhwE78fm...')
+#1 /home/leighmur/public_html/percentage/gcal.php(28): Google_Client->authenticate('4/G8sAwYhwE78fm...')
+#2 {main}
+  thrown in /home/leighmur/public_html/percentage/gapi/src/Google/Auth/OAuth2.php on line 120
+[27-Nov-2014 20:14:18 Australia/Sydney] PHP Fatal error:  Uncaught exception 'Google_Auth_Exception' with message 'Error fetching OAuth2 access token, message: 'invalid_grant: Code was already redeemed.'' in /home/leighmur/public_html/percentage/gapi/src/Google/Auth/OAuth2.php:120
+Stack trace:
+#0 /home/leighmur/public_html/percentage/gapi/src/Google/Client.php(126): Google_Auth_OAuth2->authenticate('4/G8sAwYhwE78fm...')
+#1 /home/leighmur/public_html/percentage/gcal.php(28): Google_Client->authenticate('4/G8sAwYhwE78fm...')
+#2 {main}
+  thrown in /home/leighmur/public_html/percentage/gapi/src/Google/Auth/OAuth2.php on line 120
+[27-Nov-2014 20:14:46 Australia/Sydney] PHP Fatal error:  Uncaught exception 'Google_Auth_Exception' with message 'Error fetching OAuth2 access token, message: 'invalid_grant: Code was already redeemed.'' in /home/leighmur/public_html/percentage/gapi/src/Google/Auth/OAuth2.php:120
+Stack trace:
+#0 /home/leighmur/public_html/percentage/gapi/src/Google/Client.php(126): Google_Auth_OAuth2->authenticate('4/G8sAwYhwE78fm...')
+#1 /home/leighmur/public_html/percentage/gcal.php(29): Google_Client->authenticate('4/G8sAwYhwE78fm...')
+#2 {main}
+  thrown in /home/leighmur/public_html/percentage/gapi/src/Google/Auth/OAuth2.php on line 120
+[27-Nov-2014 20:19:41 Australia/Sydney] PHP Fatal error:  Uncaught exception 'Google_Auth_Exception' with message 'Error fetching OAuth2 access token, message: 'invalid_grant: Code was already redeemed.'' in /home/leighmur/public_html/percentage/gapi/src/Google/Auth/OAuth2.php:120
+Stack trace:
+#0 /home/leighmur/public_html/percentage/gapi/src/Google/Client.php(126): Google_Auth_OAuth2->authenticate('4/G8sAwYhwE78fm...')
+#1 /home/leighmur/public_html/percentage/gcal.php(28): Google_Client->authenticate('4/G8sAwYhwE78fm...')
+#2 {main}
+  thrown in /home/leighmur/public_html/percentage/gapi/src/Google/Auth/OAuth2.php on line 120
+[27-Nov-2014 20:19:44 Australia/Sydney] PHP Notice:  Undefined index: code in /home/leighmur/public_html/percentage/gcal.php on line 22
+[27-Nov-2014 20:20:00 Australia/Sydney] PHP Fatal error:  Uncaught exception 'Google_Auth_Exception' with message 'Error fetching OAuth2 access token, message: 'invalid_grant: Code was already redeemed.'' in /home/leighmur/public_html/percentage/gapi/src/Google/Auth/OAuth2.php:120
+Stack trace:
+#0 /home/leighmur/public_html/percentage/gapi/src/Google/Client.php(126): Google_Auth_OAuth2->authenticate('4/-lsq01BsCzliC...')
+#1 /home/leighmur/public_html/percentage/gcal.php(28): Google_Client->authenticate('4/-lsq01BsCzliC...')
+#2 {main}
+  thrown in /home/leighmur/public_html/percentage/gapi/src/Google/Auth/OAuth2.php on line 120
+[27-Nov-2014 20:21:50 Australia/Sydney] PHP Notice:  Undefined index: code in /home/leighmur/public_html/percentage/gcal.php on line 23
+[27-Nov-2014 20:22:09 Australia/Sydney] PHP Notice:  Undefined index: code in /home/leighmur/public_html/percentage/gcal.php on line 23
+[27-Nov-2014 20:23:08 Australia/Sydney] PHP Parse error:  syntax error, unexpected '}', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/leighmur/public_html/percentage/gcal.php on line 35
+[27-Nov-2014 20:23:08 Australia/Sydney] PHP Parse error:  syntax error, unexpected '}', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/leighmur/public_html/percentage/gcal.php on line 35
+[27-Nov-2014 20:23:13 Australia/Sydney] PHP Parse error:  syntax error, unexpected '}', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/leighmur/public_html/percentage/gcal.php on line 35
+[27-Nov-2014 20:23:26 Australia/Sydney] PHP Notice:  Undefined index: code in /home/leighmur/public_html/percentage/gcal.php on line 21
+[27-Nov-2014 20:26:37 Australia/Sydney] PHP Fatal error:  Uncaught exception 'Google_Auth_Exception' with message 'Error fetching OAuth2 access token, message: 'invalid_grant: Code was already redeemed.'' in /home/leighmur/public_html/percentage/gapi/src/Google/Auth/OAuth2.php:120
+Stack trace:
+#0 /home/leighmur/public_html/percentage/gapi/src/Google/Client.php(126): Google_Auth_OAuth2->authenticate('4/NvkMMlvhBE0Ri...')
+#1 /home/leighmur/public_html/percentage/gcal.php(25): Google_Client->authenticate('4/NvkMMlvhBE0Ri...')
+#2 {main}
+  thrown in /home/leighmur/public_html/percentage/gapi/src/Google/Auth/OAuth2.php on line 120
+[27-Nov-2014 20:27:09 Australia/Sydney] PHP Fatal error:  Uncaught exception 'Google_Auth_Exception' with message 'Error fetching OAuth2 access token, message: 'invalid_grant: Code was already redeemed.'' in /home/leighmur/public_html/percentage/gapi/src/Google/Auth/OAuth2.php:120
+Stack trace:
+#0 /home/leighmur/public_html/percentage/gapi/src/Google/Client.php(126): Google_Auth_OAuth2->authenticate('4/NvkMMlvhBE0Ri...')
+#1 /home/leighmur/public_html/percentage/gcal.php(25): Google_Client->authenticate('4/NvkMMlvhBE0Ri...')
+#2 {main}
+  thrown in /home/leighmur/public_html/percentage/gapi/src/Google/Auth/OAuth2.php on line 120
+[27-Nov-2014 20:27:13 Australia/Sydney] PHP Fatal error:  Uncaught exception 'Google_Service_Exception' with message 'Error calling GET https://www.googleapis.com/calendar/v3/calendars/primary/events/eventId: (404) Not Found' in /home/leighmur/public_html/percentage/gapi/src/Google/Http/REST.php:83
+Stack trace:
+#0 /home/leighmur/public_html/percentage/gapi/src/Google/Http/REST.php(41): Google_Http_REST::decodeHttpResponse(Object(Google_Http_Request), Object(Google_Client))
+#1 /home/leighmur/public_html/percentage/gapi/src/Google/Client.php(564): Google_Http_REST::execute(Object(Google_Client), Object(Google_Http_Request))
+#2 /home/leighmur/public_html/percentage/gapi/src/Google/Service/Resource.php(227): Google_Client->execute(Object(Google_Http_Request))
+#3 /home/leighmur/public_html/percentage/gapi/src/Google/Service/Calendar.php(1403): Google_Service_Resource->call('get', Array, 'Google_Service_...')
+#4 /home/leighmur/public_html/percentage/gcal.php(31): Google_Service_Calendar_Events_Resource->get('primary', 'eventId')
+#5 {main}
+  thrown in /home/leighmur/public_html/percentage/gapi/src/Google/Http/REST.php on line 83
+[27-Nov-2014 20:27:26 Australia/Sydney] PHP Notice:  Undefined index: code in /home/leighmur/public_html/percentage/gcal.php on line 21
+[27-Nov-2014 20:51:01 Australia/Sydney] PHP Fatal error:  Uncaught exception 'Google_Service_Exception' with message 'Error calling GET https://www.googleapis.com/calendar/v3/calendars/primary/events/eventId: (404) Not Found' in /home/leighmur/public_html/percentage/gapi/src/Google/Http/REST.php:83
+Stack trace:
+#0 /home/leighmur/public_html/percentage/gapi/src/Google/Http/REST.php(41): Google_Http_REST::decodeHttpResponse(Object(Google_Http_Request), Object(Google_Client))
+#1 /home/leighmur/public_html/percentage/gapi/src/Google/Client.php(564): Google_Http_REST::execute(Object(Google_Client), Object(Google_Http_Request))
+#2 /home/leighmur/public_html/percentage/gapi/src/Google/Service/Resource.php(227): Google_Client->execute(Object(Google_Http_Request))
+#3 /home/leighmur/public_html/percentage/gapi/src/Google/Service/Calendar.php(1403): Google_Service_Resource->call('get', Array, 'Google_Service_...')
+#4 /home/leighmur/public_html/percentage/gcal.php(31): Google_Service_Calendar_Events_Resource->get('primary', 'eventId')
+#5 {main}
+  thrown in /home/leighmur/public_html/percentage/gapi/src/Google/Http/REST.php on line 83
+[27-Nov-2014 20:52:25 Australia/Sydney] PHP Fatal error:  Uncaught exception 'Google_Auth_Exception' with message 'Error fetching OAuth2 access token, message: 'invalid_grant: Code was already redeemed.'' in /home/leighmur/public_html/percentage/gapi/src/Google/Auth/OAuth2.php:120
+Stack trace:
+#0 /home/leighmur/public_html/percentage/gapi/src/Google/Client.php(126): Google_Auth_OAuth2->authenticate('4/oFDlw4ycMijuu...')
+#1 /home/leighmur/public_html/percentage/gcal.php(25): Google_Client->authenticate('4/oFDlw4ycMijuu...')
+#2 {main}
+  thrown in /home/leighmur/public_html/percentage/gapi/src/Google/Auth/OAuth2.php on line 120
+[27-Nov-2014 20:58:24 Australia/Sydney] PHP Notice:  Undefined index: code in /home/leighmur/public_html/percentage/gcal.php on line 21
+[27-Nov-2014 21:02:43 Australia/Sydney] PHP Warning:  rawurlencode() expects parameter 1 to be string, object given in /home/leighmur/public_html/percentage/gapi/src/Google/Http/REST.php on line 131
+[27-Nov-2014 21:02:44 Australia/Sydney] PHP Fatal error:  Uncaught exception 'Google_Service_Exception' with message 'Error calling GET https://www.googleapis.com/calendar/v3/calendars/primary/events?timeMin=: (400) Bad Request' in /home/leighmur/public_html/percentage/gapi/src/Google/Http/REST.php:83
+Stack trace:
+#0 /home/leighmur/public_html/percentage/gapi/src/Google/Http/REST.php(41): Google_Http_REST::decodeHttpResponse(Object(Google_Http_Request), Object(Google_Client))
+#1 /home/leighmur/public_html/percentage/gapi/src/Google/Client.php(564): Google_Http_REST::execute(Object(Google_Client), Object(Google_Http_Request))
+#2 /home/leighmur/public_html/percentage/gapi/src/Google/Service/Resource.php(227): Google_Client->execute(Object(Google_Http_Request))
+#3 /home/leighmur/public_html/percentage/gapi/src/Google/Service/Calendar.php(1561): Google_Service_Resource->call('list', Array, 'Google_Service_...')
+#4 /home/leighmur/public_html/percentage/gcal.php(34): Google_Service_Calendar_Events_Resource->listEvents('primary', Array)
+#5 {main}
+  thrown in /home/leighmur/public_html/percentage/gapi/src/Google/Http/REST.php on line 83
+[27-Nov-2014 21:04:05 Australia/Sydney] PHP Fatal error:  Uncaught exception 'Google_Auth_Exception' with message 'Error fetching OAuth2 access token, message: 'invalid_grant: Code was already redeemed.'' in /home/leighmur/public_html/percentage/gapi/src/Google/Auth/OAuth2.php:120
+Stack trace:
+#0 /home/leighmur/public_html/percentage/gapi/src/Google/Client.php(126): Google_Auth_OAuth2->authenticate('4/cIjWWIdJ7-WI4...')
+#1 /home/leighmur/public_html/percentage/gcal.php(25): Google_Client->authenticate('4/cIjWWIdJ7-WI4...')
+#2 {main}
+  thrown in /home/leighmur/public_html/percentage/gapi/src/Google/Auth/OAuth2.php on line 120
+[27-Nov-2014 21:04:13 Australia/Sydney] PHP Warning:  rawurlencode() expects parameter 1 to be string, object given in /home/leighmur/public_html/percentage/gapi/src/Google/Http/REST.php on line 131
+[27-Nov-2014 21:04:15 Australia/Sydney] PHP Fatal error:  Uncaught exception 'Google_Service_Exception' with message 'Error calling GET https://www.googleapis.com/calendar/v3/calendars/primary/events?timeMin=: (400) Bad Request' in /home/leighmur/public_html/percentage/gapi/src/Google/Http/REST.php:83
+Stack trace:
+#0 /home/leighmur/public_html/percentage/gapi/src/Google/Http/REST.php(41): Google_Http_REST::decodeHttpResponse(Object(Google_Http_Request), Object(Google_Client))
+#1 /home/leighmur/public_html/percentage/gapi/src/Google/Client.php(564): Google_Http_REST::execute(Object(Google_Client), Object(Google_Http_Request))
+#2 /home/leighmur/public_html/percentage/gapi/src/Google/Service/Resource.php(227): Google_Client->execute(Object(Google_Http_Request))
+#3 /home/leighmur/public_html/percentage/gapi/src/Google/Service/Calendar.php(1561): Google_Service_Resource->call('list', Array, 'Google_Service_...')
+#4 /home/leighmur/public_html/percentage/gcal.php(34): Google_Service_Calendar_Events_Resource->listEvents('primary', Array)
+#5 {main}
+  thrown in /home/leighmur/public_html/percentage/gapi/src/Google/Http/REST.php on line 83
+[27-Nov-2014 21:04:33 Australia/Sydney] PHP Warning:  rawurlencode() expects parameter 1 to be string, object given in /home/leighmur/public_html/percentage/gapi/src/Google/Http/REST.php on line 131
+[27-Nov-2014 21:04:33 Australia/Sydney] PHP Fatal error:  Uncaught exception 'Google_Service_Exception' with message 'Error calling GET https://www.googleapis.com/calendar/v3/calendars/primary/events?timeMin=: (400) Bad Request' in /home/leighmur/public_html/percentage/gapi/src/Google/Http/REST.php:83
+Stack trace:
+#0 /home/leighmur/public_html/percentage/gapi/src/Google/Http/REST.php(41): Google_Http_REST::decodeHttpResponse(Object(Google_Http_Request), Object(Google_Client))
+#1 /home/leighmur/public_html/percentage/gapi/src/Google/Client.php(564): Google_Http_REST::execute(Object(Google_Client), Object(Google_Http_Request))
+#2 /home/leighmur/public_html/percentage/gapi/src/Google/Service/Resource.php(227): Google_Client->execute(Object(Google_Http_Request))
+#3 /home/leighmur/public_html/percentage/gapi/src/Google/Service/Calendar.php(1561): Google_Service_Resource->call('list', Array, 'Google_Service_...')
+#4 /home/leighmur/public_html/percentage/gcal.php(35): Google_Service_Calendar_Events_Resource->listEvents('primary', Array)
+#5 {main}
+  thrown in /home/leighmur/public_html/percentage/gapi/src/Google/Http/REST.php on line 83
+[27-Nov-2014 21:16:24 Australia/Sydney] PHP Fatal error:  Uncaught exception 'Google_Auth_Exception' with message 'Error fetching OAuth2 access token, message: 'invalid_grant: Code was already redeemed.'' in /home/leighmur/public_html/percentage/gapi/src/Google/Auth/OAuth2.php:120
+Stack trace:
+#0 /home/leighmur/public_html/percentage/gapi/src/Google/Client.php(126): Google_Auth_OAuth2->authenticate('4/ZT9gIZcU4igTy...')
+#1 /home/leighmur/public_html/percentage/gcal.php(45): Google_Client->authenticate('4/ZT9gIZcU4igTy...')
+#2 /home/leighmur/public_html/percentage/gcal.php(21): getAccessToken(Object(Google_Client))
+#3 {main}
+  thrown in /home/leighmur/public_html/percentage/gapi/src/Google/Auth/OAuth2.php on line 120
+[27-Nov-2014 21:16:39 Australia/Sydney] PHP Fatal error:  Uncaught exception 'Google_Auth_Exception' with message 'Error fetching OAuth2 access token, message: 'invalid_grant: Code was already redeemed.'' in /home/leighmur/public_html/percentage/gapi/src/Google/Auth/OAuth2.php:120
+Stack trace:
+#0 /home/leighmur/public_html/percentage/gapi/src/Google/Client.php(126): Google_Auth_OAuth2->authenticate('4/ZOp_wzbFtL87W...')
+#1 /home/leighmur/public_html/percentage/gcal.php(45): Google_Client->authenticate('4/ZOp_wzbFtL87W...')
+#2 /home/leighmur/public_html/percentage/gcal.php(21): getAccessToken(Object(Google_Client))
+#3 {main}
+  thrown in /home/leighmur/public_html/percentage/gapi/src/Google/Auth/OAuth2.php on line 120
+[27-Nov-2014 21:19:47 Australia/Sydney] PHP Notice:  Undefined variable: _SESSION in /home/leighmur/public_html/percentage/gcal.php on line 42
+[27-Nov-2014 21:20:42 Australia/Sydney] PHP Notice:  Undefined index: token in /home/leighmur/public_html/percentage/gcal.php on line 42
+[27-Nov-2014 21:38:42 Australia/Sydney] PHP Fatal error:  Uncaught exception 'Google_Service_Exception' with message 'Error calling GET https://www.googleapis.com/calendar/v3/calendars/primary/events?timeMin=2014-11-27T21%3A38%3A42%2B11%3A00&maxResults=1&fields=modelData: (400) Invalid field selection modelData' in /home/leighmur/public_html/percentage/gapi/src/Google/Http/REST.php:83
+Stack trace:
+#0 /home/leighmur/public_html/percentage/gapi/src/Google/Http/REST.php(41): Google_Http_REST::decodeHttpResponse(Object(Google_Http_Request), Object(Google_Client))
+#1 /home/leighmur/public_html/percentage/gapi/src/Google/Client.php(564): Google_Http_REST::execute(Object(Google_Client), Object(Google_Http_Request))
+#2 /home/leighmur/public_html/percentage/gapi/src/Google/Service/Resource.php(227): Google_Client->execute(Object(Google_Http_Request))
+#3 /home/leighmur/public_html/percentage/gapi/src/Google/Service/Calendar.php(1561): Google_Service_Resource->call('list', Array, 'Google_Service_...')
+#4 /home/leighmur/public_html/percentage/gcal.php(37): Google_Service_Calend in /home/leighmur/public_html/percentage/gapi/src/Google/Http/REST.php on line 83
+[27-Nov-2014 22:19:04 Australia/Sydney] PHP Fatal error:  Call to undefined function getAccessToken() in /home/leighmur/public_html/percentage/gcal.php on line 21
+[27-Nov-2014 22:25:59 Australia/Sydney] PHP Notice:  Undefined variable: authUrl in /home/leighmur/public_html/percentage/gcal.php on line 8
+[27-Nov-2014 22:32:26 Australia/Sydney] PHP Fatal error:  Uncaught exception 'Google_Auth_Exception' with message 'The OAuth 2.0 access token has expired, and a refresh token is not available. Refresh tokens are not returned for responses that were auto-approved.' in /home/leighmur/public_html/percentage/gapi/src/Google/Auth/OAuth2.php:243
+Stack trace:
+#0 /home/leighmur/public_html/percentage/gapi/src/Google/Service/Resource.php(208): Google_Auth_OAuth2->sign(Object(Google_Http_Request))
+#1 /home/leighmur/public_html/percentage/gapi/src/Google/Service/Calendar.php(1561): Google_Service_Resource->call('list', Array, 'Google_Service_...')
+#2 /home/leighmur/public_html/percentage/gcal.php(20): Google_Service_Calendar_Events_Resource->listEvents('primary', Array)
+#3 {main}
+  thrown in /home/leighmur/public_html/percentage/gapi/src/Google/Auth/OAuth2.php on line 243
+[27-Nov-2014 22:32:32 Australia/Sydney] PHP Fatal error:  Uncaught exception 'Google_Auth_Exception' with message 'The OAuth 2.0 access token has expired, and a refresh token is not available. Refresh tokens are not returned for responses that were auto-approved.' in /home/leighmur/public_html/percentage/gapi/src/Google/Auth/OAuth2.php:243
+Stack trace:
+#0 /home/leighmur/public_html/percentage/gapi/src/Google/Service/Resource.php(208): Google_Auth_OAuth2->sign(Object(Google_Http_Request))
+#1 /home/leighmur/public_html/percentage/gapi/src/Google/Service/Calendar.php(1561): Google_Service_Resource->call('list', Array, 'Google_Service_...')
+#2 /home/leighmur/public_html/percentage/gcal.php(20): Google_Service_Calendar_Events_Resource->listEvents('primary', Array)
+#3 {main}
+  thrown in /home/leighmur/public_html/percentage/gapi/src/Google/Auth/OAuth2.php on line 243
+[27-Nov-2014 22:36:17 Australia/Sydney] PHP Fatal error:  Uncaught exception 'Google_Auth_Exception' with message 'Error fetching OAuth2 access token, message: 'invalid_grant: Code was already redeemed.'' in /home/leighmur/public_html/percentage/gapi/src/Google/Auth/OAuth2.php:120
+Stack trace:
+#0 /home/leighmur/public_html/percentage/gapi/src/Google/Client.php(126): Google_Auth_OAuth2->authenticate('4/-mtZBDRATTBJf...')
+#1 /home/leighmur/public_html/percentage/google_client.php(26): Google_Client->authenticate('4/-mtZBDRATTBJf...')
+#2 /home/leighmur/public_html/percentage/gcal.php(6): AuthService->get()
+#3 {main}
+  thrown in /home/leighmur/public_html/percentage/gapi/src/Google/Auth/OAuth2.php on line 120
+[27-Nov-2014 22:36:54 Australia/Sydney] PHP Notice:  Undefined index: code in /home/leighmur/public_html/percentage/google_client.php on line 24
+[27-Nov-2014 22:54:19 Australia/Sydney] PHP Notice:  Undefined variable: events in /home/leighmur/public_html/percentage/get-event.php on line 22
+[27-Nov-2014 22:54:19 Australia/Sydney] PHP Fatal error:  Call to a member function getItems() on a non-object in /home/leighmur/public_html/percentage/get-event.php on line 22
+[28-Nov-2014 13:35:45 Australia/Sydney] PHP Notice:  Undefined variable: startMax in /home/leighmur/public_html/percentage/get-event.php on line 16
+[28-Nov-2014 13:35:45 Australia/Sydney] PHP Fatal error:  Call to a member function getTimestamp() on a non-object in /home/leighmur/public_html/percentage/get-event.php on line 16
