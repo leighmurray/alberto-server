@@ -217,3 +217,219 @@ Stack trace:
 [27-Nov-2014 22:54:19 Australia/Sydney] PHP Fatal error:  Call to a member function getItems() on a non-object in /home/leighmur/public_html/percentage/get-event.php on line 22
 [28-Nov-2014 13:35:45 Australia/Sydney] PHP Notice:  Undefined variable: startMax in /home/leighmur/public_html/percentage/get-event.php on line 16
 [28-Nov-2014 13:35:45 Australia/Sydney] PHP Fatal error:  Call to a member function getTimestamp() on a non-object in /home/leighmur/public_html/percentage/get-event.php on line 16
+[28-Nov-2014 20:06:54 Australia/Sydney] PHP Fatal error:  Uncaught exception 'Google_Auth_Exception' with message 'Error fetching OAuth2 access token, message: 'invalid_grant: Code was already redeemed.'' in /home/leighmur/public_html/percentage/gapi/src/Google/Auth/OAuth2.php:120
+Stack trace:
+#0 /home/leighmur/public_html/percentage/gapi/src/Google/Client.php(126): Google_Auth_OAuth2->authenticate('4/vumzNJwA0gpHS...')
+#1 /home/leighmur/public_html/percentage/google_client.php(24): Google_Client->authenticate('4/vumzNJwA0gpHS...')
+#2 /home/leighmur/public_html/percentage/gcal.php(11): AuthService->get()
+#3 /home/leighmur/public_html/percentage/settings.htm(12): require_once('/home/leighmur/...')
+#4 {main}
+  thrown in /home/leighmur/public_html/percentage/gapi/src/Google/Auth/OAuth2.php on line 120
+[28-Nov-2014 20:12:15 Australia/Sydney] PHP Fatal error:  Uncaught exception 'Google_Auth_Exception' with message 'Error fetching OAuth2 access token, message: 'invalid_grant: Code was already redeemed.'' in /home/leighmur/public_html/percentage/gapi/src/Google/Auth/OAuth2.php:120
+Stack trace:
+#0 /home/leighmur/public_html/percentage/gapi/src/Google/Client.php(126): Google_Auth_OAuth2->authenticate('4/C2zZQTuSFTO0E...')
+#1 /home/leighmur/public_html/percentage/google_client.php(24): Google_Client->authenticate('4/C2zZQTuSFTO0E...')
+#2 /home/leighmur/public_html/percentage/gcal.php(11): AuthService->get()
+#3 /home/leighmur/public_html/percentage/settings.htm(13): require_once('/home/leighmur/...')
+#4 {main}
+  thrown in /home/leighmur/public_html/percentage/gapi/src/Google/Auth/OAuth2.php on line 120
+[28-Nov-2014 20:45:05 Australia/Sydney] PHP Fatal error:  Uncaught exception 'Google_Auth_Exception' with message 'Error fetching OAuth2 access token, message: 'invalid_grant: Code was already redeemed.'' in /home/leighmur/public_html/percentage/gapi/src/Google/Auth/OAuth2.php:120
+Stack trace:
+#0 /home/leighmur/public_html/percentage/gapi/src/Google/Client.php(126): Google_Auth_OAuth2->authenticate('4/EWh64yU0ayV7K...')
+#1 /home/leighmur/public_html/percentage/google_client.php(24): Google_Client->authenticate('4/EWh64yU0ayV7K...')
+#2 /home/leighmur/public_html/percentage/gcal.php(11): AuthService->get()
+#3 /home/leighmur/public_html/percentage/settings.htm(13): require_once('/home/leighmur/...')
+#4 {main}
+  thrown in /home/leighmur/public_html/percentage/gapi/src/Google/Auth/OAuth2.php on line 120
+[29-Nov-2014 20:34:00 Australia/Sydney] PHP Fatal error:  Call to undefined function pr() in /home/leighmur/public_html/percentage/gcal.php on line 17
+[29-Nov-2014 20:34:11 Australia/Sydney] PHP Fatal error:  Uncaught exception 'Google_Auth_Exception' with message 'Error fetching OAuth2 access token, message: 'invalid_grant: Code was already redeemed.'' in /home/leighmur/public_html/percentage/gapi/src/Google/Auth/OAuth2.php:120
+Stack trace:
+#0 /home/leighmur/public_html/percentage/gapi/src/Google/Client.php(126): Google_Auth_OAuth2->authenticate('4/E7cH4kqBCrF6U...')
+#1 /home/leighmur/public_html/percentage/google_client.php(24): Google_Client->authenticate('4/E7cH4kqBCrF6U...')
+#2 /home/leighmur/public_html/percentage/gcal.php(11): AuthService->get()
+#3 /home/leighmur/public_html/percentage/settings.htm(13): require_once('/home/leighmur/...')
+#4 {main}
+  thrown in /home/leighmur/public_html/percentage/gapi/src/Google/Auth/OAuth2.php on line 120
+[29-Nov-2014 20:41:43 Australia/Sydney] PHP Fatal error:  Uncaught exception 'Google_Auth_Exception' with message 'Error fetching OAuth2 access token, message: 'invalid_grant: Code was already redeemed.'' in /home/leighmur/public_html/percentage/gapi/src/Google/Auth/OAuth2.php:120
+Stack trace:
+#0 /home/leighmur/public_html/percentage/gapi/src/Google/Client.php(126): Google_Auth_OAuth2->authenticate('4/kVwL3wlf6NrCA...')
+#1 /home/leighmur/public_html/percentage/google_client.php(24): Google_Client->authenticate('4/kVwL3wlf6NrCA...')
+#2 /home/leighmur/public_html/percentage/gcal.php(11): AuthService->get()
+#3 /home/leighmur/public_html/percentage/settings.htm(13): require_once('/home/leighmur/...')
+#4 {main}
+  thrown in /home/leighmur/public_html/percentage/gapi/src/Google/Auth/OAuth2.php on line 120
+[29-Nov-2014 20:47:26 Australia/Sydney] PHP Fatal error:  Uncaught exception 'Google_Auth_Exception' with message 'Error fetching OAuth2 access token, message: 'invalid_grant: Code was already redeemed.'' in /home/leighmur/public_html/percentage/gapi/src/Google/Auth/OAuth2.php:120
+Stack trace:
+#0 /home/leighmur/public_html/percentage/gapi/src/Google/Client.php(126): Google_Auth_OAuth2->authenticate('4/esU1hq82g_NGY...')
+#1 /home/leighmur/public_html/percentage/google_client.php(24): Google_Client->authenticate('4/esU1hq82g_NGY...')
+#2 /home/leighmur/public_html/percentage/gcal.php(11): AuthService->get()
+#3 /home/leighmur/public_html/percentage/settings.htm(13): require_once('/home/leighmur/...')
+#4 {main}
+  thrown in /home/leighmur/public_html/percentage/gapi/src/Google/Auth/OAuth2.php on line 120
+[29-Nov-2014 20:58:11 Australia/Sydney] PHP Fatal error:  Uncaught exception 'Google_Auth_Exception' with message 'Error fetching OAuth2 access token, message: 'invalid_grant: Code was already redeemed.'' in /home/leighmur/public_html/percentage/gapi/src/Google/Auth/OAuth2.php:120
+Stack trace:
+#0 /home/leighmur/public_html/percentage/gapi/src/Google/Client.php(126): Google_Auth_OAuth2->authenticate('4/Bwz7U_HHDIWz2...')
+#1 /home/leighmur/public_html/percentage/google_client.php(24): Google_Client->authenticate('4/Bwz7U_HHDIWz2...')
+#2 /home/leighmur/public_html/percentage/gcal.php(11): AuthService->get()
+#3 /home/leighmur/public_html/percentage/settings.htm(13): require_once('/home/leighmur/...')
+#4 {main}
+  thrown in /home/leighmur/public_html/percentage/gapi/src/Google/Auth/OAuth2.php on line 120
+[29-Nov-2014 21:01:33 Australia/Sydney] PHP Fatal error:  Uncaught exception 'Google_Auth_Exception' with message 'Error fetching OAuth2 access token, message: 'invalid_grant: Code was already redeemed.'' in /home/leighmur/public_html/percentage/gapi/src/Google/Auth/OAuth2.php:120
+Stack trace:
+#0 /home/leighmur/public_html/percentage/gapi/src/Google/Client.php(126): Google_Auth_OAuth2->authenticate('4/TSbuS7onGm38a...')
+#1 /home/leighmur/public_html/percentage/google_client.php(24): Google_Client->authenticate('4/TSbuS7onGm38a...')
+#2 /home/leighmur/public_html/percentage/gcal.php(11): AuthService->get()
+#3 /home/leighmur/public_html/percentage/settings.htm(13): require_once('/home/leighmur/...')
+#4 {main}
+  thrown in /home/leighmur/public_html/percentage/gapi/src/Google/Auth/OAuth2.php on line 120
+[29-Nov-2014 21:02:27 Australia/Sydney] PHP Fatal error:  Uncaught exception 'Google_Auth_Exception' with message 'Error fetching OAuth2 access token, message: 'invalid_grant: Code was already redeemed.'' in /home/leighmur/public_html/percentage/gapi/src/Google/Auth/OAuth2.php:120
+Stack trace:
+#0 /home/leighmur/public_html/percentage/gapi/src/Google/Client.php(126): Google_Auth_OAuth2->authenticate('4/SQaSIbz08PcCD...')
+#1 /home/leighmur/public_html/percentage/google_client.php(24): Google_Client->authenticate('4/SQaSIbz08PcCD...')
+#2 /home/leighmur/public_html/percentage/gcal.php(11): AuthService->get()
+#3 /home/leighmur/public_html/percentage/settings.htm(13): require_once('/home/leighmur/...')
+#4 {main}
+  thrown in /home/leighmur/public_html/percentage/gapi/src/Google/Auth/OAuth2.php on line 120
+[29-Nov-2014 21:03:16 Australia/Sydney] PHP Fatal error:  Uncaught exception 'Google_Auth_Exception' with message 'Error fetching OAuth2 access token, message: 'invalid_grant: Code was already redeemed.'' in /home/leighmur/public_html/percentage/gapi/src/Google/Auth/OAuth2.php:120
+Stack trace:
+#0 /home/leighmur/public_html/percentage/gapi/src/Google/Client.php(126): Google_Auth_OAuth2->authenticate('4/31volkioPJ3YW...')
+#1 /home/leighmur/public_html/percentage/google_client.php(24): Google_Client->authenticate('4/31volkioPJ3YW...')
+#2 /home/leighmur/public_html/percentage/gcal.php(11): AuthService->get()
+#3 /home/leighmur/public_html/percentage/settings.htm(13): require_once('/home/leighmur/...')
+#4 {main}
+  thrown in /home/leighmur/public_html/percentage/gapi/src/Google/Auth/OAuth2.php on line 120
+[29-Nov-2014 21:48:43 Australia/Sydney] PHP Fatal error:  Uncaught exception 'Google_Auth_Exception' with message 'Error fetching OAuth2 access token, message: 'invalid_grant: Code was already redeemed.'' in /home/leighmur/public_html/percentage/gapi/src/Google/Auth/OAuth2.php:120
+Stack trace:
+#0 /home/leighmur/public_html/percentage/gapi/src/Google/Client.php(126): Google_Auth_OAuth2->authenticate('4/eDc6MD6x465C_...')
+#1 /home/leighmur/public_html/percentage/google_client.php(24): Google_Client->authenticate('4/eDc6MD6x465C_...')
+#2 /home/leighmur/public_html/percentage/gcal.php(11): AuthService->get()
+#3 /home/leighmur/public_html/percentage/settings.htm(25): require_once('/home/leighmur/...')
+#4 {main}
+  thrown in /home/leighmur/public_html/percentage/gapi/src/Google/Auth/OAuth2.php on line 120
+[29-Nov-2014 21:49:04 Australia/Sydney] PHP Fatal error:  Uncaught exception 'Google_Auth_Exception' with message 'Error fetching OAuth2 access token, message: 'invalid_grant: Code was already redeemed.'' in /home/leighmur/public_html/percentage/gapi/src/Google/Auth/OAuth2.php:120
+Stack trace:
+#0 /home/leighmur/public_html/percentage/gapi/src/Google/Client.php(126): Google_Auth_OAuth2->authenticate('4/g4BS0bMh_khi-...')
+#1 /home/leighmur/public_html/percentage/google_client.php(24): Google_Client->authenticate('4/g4BS0bMh_khi-...')
+#2 /home/leighmur/public_html/percentage/gcal.php(11): AuthService->get()
+#3 /home/leighmur/public_html/percentage/settings.htm(25): require_once('/home/leighmur/...')
+#4 {main}
+  thrown in /home/leighmur/public_html/percentage/gapi/src/Google/Auth/OAuth2.php on line 120
+[29-Nov-2014 21:52:02 Australia/Sydney] PHP Fatal error:  Uncaught exception 'Google_Auth_Exception' with message 'Error fetching OAuth2 access token, message: 'invalid_grant: Code was already redeemed.'' in /home/leighmur/public_html/percentage/gapi/src/Google/Auth/OAuth2.php:120
+Stack trace:
+#0 /home/leighmur/public_html/percentage/gapi/src/Google/Client.php(126): Google_Auth_OAuth2->authenticate('4/AWccK_lLhG1bh...')
+#1 /home/leighmur/public_html/percentage/google_client.php(24): Google_Client->authenticate('4/AWccK_lLhG1bh...')
+#2 /home/leighmur/public_html/percentage/gcal.php(11): AuthService->get()
+#3 /home/leighmur/public_html/percentage/settings.htm(25): require_once('/home/leighmur/...')
+#4 {main}
+  thrown in /home/leighmur/public_html/percentage/gapi/src/Google/Auth/OAuth2.php on line 120
+[29-Nov-2014 21:56:27 Australia/Sydney] PHP Fatal error:  Uncaught exception 'Google_Auth_Exception' with message 'Error fetching OAuth2 access token, message: 'invalid_grant: Code was already redeemed.'' in /home/leighmur/public_html/percentage/gapi/src/Google/Auth/OAuth2.php:120
+Stack trace:
+#0 /home/leighmur/public_html/percentage/gapi/src/Google/Client.php(126): Google_Auth_OAuth2->authenticate('4/Ajve-PIKda1-K...')
+#1 /home/leighmur/public_html/percentage/google_client.php(24): Google_Client->authenticate('4/Ajve-PIKda1-K...')
+#2 /home/leighmur/public_html/percentage/gcal.php(11): AuthService->get()
+#3 /home/leighmur/public_html/percentage/settings.htm(25): require_once('/home/leighmur/...')
+#4 {main}
+  thrown in /home/leighmur/public_html/percentage/gapi/src/Google/Auth/OAuth2.php on line 120
+[29-Nov-2014 21:57:18 Australia/Sydney] PHP Fatal error:  Uncaught exception 'Google_Auth_Exception' with message 'Error fetching OAuth2 access token, message: 'invalid_grant: Code was already redeemed.'' in /home/leighmur/public_html/percentage/gapi/src/Google/Auth/OAuth2.php:120
+Stack trace:
+#0 /home/leighmur/public_html/percentage/gapi/src/Google/Client.php(126): Google_Auth_OAuth2->authenticate('4/7-KWTPxETcFZp...')
+#1 /home/leighmur/public_html/percentage/google_client.php(24): Google_Client->authenticate('4/7-KWTPxETcFZp...')
+#2 /home/leighmur/public_html/percentage/gcal.php(11): AuthService->get()
+#3 /home/leighmur/public_html/percentage/settings.htm(25): require_once('/home/leighmur/...')
+#4 {main}
+  thrown in /home/leighmur/public_html/percentage/gapi/src/Google/Auth/OAuth2.php on line 120
+[29-Nov-2014 22:03:35 Australia/Sydney] PHP Fatal error:  Uncaught exception 'Google_Auth_Exception' with message 'Error fetching OAuth2 access token, message: 'invalid_grant: Code was already redeemed.'' in /home/leighmur/public_html/percentage/gapi/src/Google/Auth/OAuth2.php:120
+Stack trace:
+#0 /home/leighmur/public_html/percentage/gapi/src/Google/Client.php(126): Google_Auth_OAuth2->authenticate('4/5TlTUIu2_lP39...')
+#1 /home/leighmur/public_html/percentage/google_client.php(24): Google_Client->authenticate('4/5TlTUIu2_lP39...')
+#2 /home/leighmur/public_html/percentage/gcal.php(11): AuthService->get()
+#3 /home/leighmur/public_html/percentage/settings.htm(25): require_once('/home/leighmur/...')
+#4 {main}
+  thrown in /home/leighmur/public_html/percentage/gapi/src/Google/Auth/OAuth2.php on line 120
+[29-Nov-2014 22:07:29 Australia/Sydney] PHP Fatal error:  Uncaught exception 'Google_Auth_Exception' with message 'Error fetching OAuth2 access token, message: 'invalid_grant: Code was already redeemed.'' in /home/leighmur/public_html/percentage/gapi/src/Google/Auth/OAuth2.php:120
+Stack trace:
+#0 /home/leighmur/public_html/percentage/gapi/src/Google/Client.php(126): Google_Auth_OAuth2->authenticate('4/bdLq2rVBe4eG5...')
+#1 /home/leighmur/public_html/percentage/google_client.php(24): Google_Client->authenticate('4/bdLq2rVBe4eG5...')
+#2 /home/leighmur/public_html/percentage/gcal.php(11): AuthService->get()
+#3 /home/leighmur/public_html/percentage/settings.htm(25): require_once('/home/leighmur/...')
+#4 {main}
+  thrown in /home/leighmur/public_html/percentage/gapi/src/Google/Auth/OAuth2.php on line 120
+[29-Nov-2014 22:10:06 Australia/Sydney] PHP Fatal error:  Uncaught exception 'Google_Auth_Exception' with message 'Error fetching OAuth2 access token, message: 'invalid_grant: Code was already redeemed.'' in /home/leighmur/public_html/percentage/gapi/src/Google/Auth/OAuth2.php:120
+Stack trace:
+#0 /home/leighmur/public_html/percentage/gapi/src/Google/Client.php(126): Google_Auth_OAuth2->authenticate('4/F8raOixpT-97a...')
+#1 /home/leighmur/public_html/percentage/google_client.php(24): Google_Client->authenticate('4/F8raOixpT-97a...')
+#2 /home/leighmur/public_html/percentage/gcal.php(11): AuthService->get()
+#3 /home/leighmur/public_html/percentage/settings.htm(25): require_once('/home/leighmur/...')
+#4 {main}
+  thrown in /home/leighmur/public_html/percentage/gapi/src/Google/Auth/OAuth2.php on line 120
+[29-Nov-2014 11:45:53 UTC] PHP Warning:  array_pop() expects parameter 1 to be array, object given in /home/leighmur/public_html/percentage/get-event.php on line 34
+[29-Nov-2014 11:46:09 UTC] PHP Notice:  Undefined variable: item in /home/leighmur/public_html/percentage/get-event.php on line 35
+[29-Nov-2014 11:46:09 UTC] PHP Notice:  Undefined variable: item in /home/leighmur/public_html/percentage/get-event.php on line 36
+[29-Nov-2014 11:46:09 UTC] PHP Notice:  Undefined variable: item in /home/leighmur/public_html/percentage/get-event.php on line 45
+[29-Nov-2014 11:46:09 UTC] PHP Notice:  Undefined variable: item in /home/leighmur/public_html/percentage/get-event.php on line 35
+[29-Nov-2014 11:46:09 UTC] PHP Notice:  Undefined variable: item in /home/leighmur/public_html/percentage/get-event.php on line 36
+[29-Nov-2014 11:46:09 UTC] PHP Notice:  Undefined variable: item in /home/leighmur/public_html/percentage/get-event.php on line 45
+[29-Nov-2014 23:16:13 Australia/Sydney] PHP Notice:  Undefined index: v in /home/leighmur/public_html/percentage/update-session.php on line 5
+[29-Nov-2014 23:16:21 Australia/Sydney] PHP Notice:  Undefined index: v in /home/leighmur/public_html/percentage/update-session.php on line 5
+[29-Nov-2014 23:16:35 Australia/Sydney] PHP Notice:  Undefined index: v in /home/leighmur/public_html/percentage/update-session.php on line 5
+[29-Nov-2014 23:17:55 Australia/Sydney] PHP Fatal error:  Uncaught exception 'Google_Auth_Exception' with message 'Error fetching OAuth2 access token, message: 'invalid_grant: Code was already redeemed.'' in /home/leighmur/public_html/percentage/gapi/src/Google/Auth/OAuth2.php:120
+Stack trace:
+#0 /home/leighmur/public_html/percentage/gapi/src/Google/Client.php(126): Google_Auth_OAuth2->authenticate('4/9Wc8Tt5bDy0sM...')
+#1 /home/leighmur/public_html/percentage/google_client.php(24): Google_Client->authenticate('4/9Wc8Tt5bDy0sM...')
+#2 /home/leighmur/public_html/percentage/gcal.php(11): AuthService->get()
+#3 /home/leighmur/public_html/percentage/settings.htm(25): require_once('/home/leighmur/...')
+#4 {main}
+  thrown in /home/leighmur/public_html/percentage/gapi/src/Google/Auth/OAuth2.php on line 120
+[29-Nov-2014 23:18:07 Australia/Sydney] PHP Notice:  Undefined index: v in /home/leighmur/public_html/percentage/update-session.php on line 5
+[29-Nov-2014 23:18:32 Australia/Sydney] PHP Fatal error:  Uncaught exception 'Google_Auth_Exception' with message 'Error fetching OAuth2 access token, message: 'invalid_grant: Code was already redeemed.'' in /home/leighmur/public_html/percentage/gapi/src/Google/Auth/OAuth2.php:120
+Stack trace:
+#0 /home/leighmur/public_html/percentage/gapi/src/Google/Client.php(126): Google_Auth_OAuth2->authenticate('4/SZyjld4PW6xWm...')
+#1 /home/leighmur/public_html/percentage/google_client.php(24): Google_Client->authenticate('4/SZyjld4PW6xWm...')
+#2 /home/leighmur/public_html/percentage/gcal.php(11): AuthService->get()
+#3 /home/leighmur/public_html/percentage/settings.htm(25): require_once('/home/leighmur/...')
+#4 {main}
+  thrown in /home/leighmur/public_html/percentage/gapi/src/Google/Auth/OAuth2.php on line 120
+[29-Nov-2014 23:20:49 Australia/Sydney] PHP Fatal error:  Uncaught exception 'Google_Auth_Exception' with message 'Error fetching OAuth2 access token, message: 'invalid_grant: Code was already redeemed.'' in /home/leighmur/public_html/percentage/gapi/src/Google/Auth/OAuth2.php:120
+Stack trace:
+#0 /home/leighmur/public_html/percentage/gapi/src/Google/Client.php(126): Google_Auth_OAuth2->authenticate('4/n91veq2mnVKgQ...')
+#1 /home/leighmur/public_html/percentage/google_client.php(24): Google_Client->authenticate('4/n91veq2mnVKgQ...')
+#2 /home/leighmur/public_html/percentage/gcal.php(11): AuthService->get()
+#3 /home/leighmur/public_html/percentage/settings.htm(25): require_once('/home/leighmur/...')
+#4 {main}
+  thrown in /home/leighmur/public_html/percentage/gapi/src/Google/Auth/OAuth2.php on line 120
+[29-Nov-2014 23:20:56 Australia/Sydney] PHP Notice:  Undefined index: v in /home/leighmur/public_html/percentage/update-session.php on line 5
+[29-Nov-2014 23:21:00 Australia/Sydney] PHP Notice:  Undefined index: v in /home/leighmur/public_html/percentage/update-session.php on line 5
+[29-Nov-2014 23:21:13 Australia/Sydney] PHP Fatal error:  Uncaught exception 'Google_Auth_Exception' with message 'Error fetching OAuth2 access token, message: 'invalid_grant: Code was already redeemed.'' in /home/leighmur/public_html/percentage/gapi/src/Google/Auth/OAuth2.php:120
+Stack trace:
+#0 /home/leighmur/public_html/percentage/gapi/src/Google/Client.php(126): Google_Auth_OAuth2->authenticate('4/W-1uFtHX-3FzL...')
+#1 /home/leighmur/public_html/percentage/google_client.php(24): Google_Client->authenticate('4/W-1uFtHX-3FzL...')
+#2 /home/leighmur/public_html/percentage/gcal.php(11): AuthService->get()
+#3 /home/leighmur/public_html/percentage/settings.htm(25): require_once('/home/leighmur/...')
+#4 {main}
+  thrown in /home/leighmur/public_html/percentage/gapi/src/Google/Auth/OAuth2.php on line 120
+[29-Nov-2014 23:21:20 Australia/Sydney] PHP Notice:  Undefined index: v in /home/leighmur/public_html/percentage/update-session.php on line 5
+[29-Nov-2014 23:21:23 Australia/Sydney] PHP Notice:  Undefined index: v in /home/leighmur/public_html/percentage/update-session.php on line 5
+[29-Nov-2014 23:21:49 Australia/Sydney] PHP Fatal error:  Uncaught exception 'Google_Auth_Exception' with message 'Error fetching OAuth2 access token, message: 'invalid_grant: Code was already redeemed.'' in /home/leighmur/public_html/percentage/gapi/src/Google/Auth/OAuth2.php:120
+Stack trace:
+#0 /home/leighmur/public_html/percentage/gapi/src/Google/Client.php(126): Google_Auth_OAuth2->authenticate('4/BZGTZFkC9Tt6C...')
+#1 /home/leighmur/public_html/percentage/google_client.php(24): Google_Client->authenticate('4/BZGTZFkC9Tt6C...')
+#2 /home/leighmur/public_html/percentage/gcal.php(11): AuthService->get()
+#3 /home/leighmur/public_html/percentage/settings.htm(25): require_once('/home/leighmur/...')
+#4 {main}
+  thrown in /home/leighmur/public_html/percentage/gapi/src/Google/Auth/OAuth2.php on line 120
+[30-Nov-2014 00:06:07 Australia/Sydney] PHP Fatal error:  Uncaught exception 'Google_Auth_Exception' with message 'Error fetching OAuth2 access token, message: 'invalid_grant: Code was already redeemed.'' in /home/leighmur/public_html/percentage/gapi/src/Google/Auth/OAuth2.php:120
+Stack trace:
+#0 /home/leighmur/public_html/percentage/gapi/src/Google/Client.php(126): Google_Auth_OAuth2->authenticate('4/XaU28LkwoMn4D...')
+#1 /home/leighmur/public_html/percentage/google_client.php(24): Google_Client->authenticate('4/XaU28LkwoMn4D...')
+#2 /home/leighmur/public_html/percentage/gcal.php(11): AuthService->get()
+#3 /home/leighmur/public_html/percentage/settings.htm(24): require_once('/home/leighmur/...')
+#4 {main}
+  thrown in /home/leighmur/public_html/percentage/gapi/src/Google/Auth/OAuth2.php on line 120
+[30-Nov-2014 00:06:31 Australia/Sydney] PHP Fatal error:  Uncaught exception 'Google_Auth_Exception' with message 'Error fetching OAuth2 access token, message: 'invalid_grant: Code was already redeemed.'' in /home/leighmur/public_html/percentage/gapi/src/Google/Auth/OAuth2.php:120
+Stack trace:
+#0 /home/leighmur/public_html/percentage/gapi/src/Google/Client.php(126): Google_Auth_OAuth2->authenticate('4/tQAkS4euOa9XB...')
+#1 /home/leighmur/public_html/percentage/google_client.php(24): Google_Client->authenticate('4/tQAkS4euOa9XB...')
+#2 /home/leighmur/public_html/percentage/gcal.php(11): AuthService->get()
+#3 /home/leighmur/public_html/percentage/settings.htm(24): require_once('/home/leighmur/...')
+#4 {main}
+  thrown in /home/leighmur/public_html/percentage/gapi/src/Google/Auth/OAuth2.php on line 120

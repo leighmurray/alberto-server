@@ -22,6 +22,22 @@ function populate(frm, data) {
     });
 }
 
+
+function updateCalendarId (selectObject) {
+    $.post('/update-session.php', { k: 'calendar_id', v: selectObject.value }, onUpdateCalendarId, "json" );
+}
+
+var timeout;
+
+function onUpdateCalendarId ($json) {
+    console.log($json);
+
+    clearTimeout(timeout);
+    $('#update-message').popup("open");
+
+    timeout = setTimeout(function() {$("#update-message").popup("close");}, 2000);
+}
+
 function checkHashThenPopulate () {
     if (window.location.hash) {
         var decodedHash = decodeURI(window.location.hash.substr(1));
@@ -46,7 +62,7 @@ $(function() {
 
     loadTime();
 
-    $("#b-cancel").click(function() {
+    $("#b-cancel, #back").click(function() {
         document.location = "pebblejs://close";
         return false;
     });
