@@ -15,7 +15,7 @@
         <div data-role="header" data-add-back-btn="true" >
             <a id="back" class="ui-btn-left ui-btn ui-btn-inline ui-mini ui-corner-all ui-btn-icon-left ui-icon-carat-l">Back</a>
             <h1>Percentage</h1>
-            <form id="sign-out" data-ajax="false" action="/settings.htm" method="post">
+            <form id="sign-out" data-ajax="false" action="/settings.php" method="post">
                 <input type="hidden" name="logout" value="true">
                 <button class="ui-btn-right ui-btn ui-btn-b ui-btn-inline ui-mini ui-corner-all ui-btn-icon-right ui-icon-calendar">Sign out</button>
             </form>

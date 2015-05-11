@@ -16,7 +16,7 @@ class AuthService
         // OAuth2 client ID and secret can be found in the Google Developers Console.
         $client->setClientId(CLIENT_ID);
         $client->setClientSecret(CLIENT_SECRET);
-        $client->setRedirectUri('http://percentage.leighmurray.com/settings.htm');
+        $client->setRedirectUri('http://percentage.leighmurray.com/settings.php');
         $client->addScope('https://www.googleapis.com/auth/calendar');
         $client->setAccessType('offline');
 
