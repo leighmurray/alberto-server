@@ -25,10 +25,12 @@ if ($client->isAccessTokenExpired()) {
     }
 
     ?>
-        <!--<pre><?php /*print_r($calendarList); */?></pre>-->
+
         <select id="calendar-select" name="calendar_id" onchange="updateCalendarId(this);">
             <?php foreach ($calendarList->getItems() as $calendarItem) : ?>
-                <option value="<?php echo $calendarItem['id']; ?>" <?php echo ($calendarItem['id'] == $_SESSION['calendar_id']) ? "selected" : ""; ?> ><?php echo $calendarItem['summary'];?></option>
+                <option value="<?php echo $calendarItem['id']; ?>" <?php echo ($calendarItem['id'] == $_SESSION['calendar_id']) ? "selected" : ""; ?> >
+                  <?php echo $calendarItem['summary'];?>
+                </option>
             <?php endforeach; ?>
         </select>
         <br><br>
@@ -45,6 +47,6 @@ if ($client->isAccessTokenExpired()) {
             }
 
         </style>
-    <?
+    <?php
 }
 
